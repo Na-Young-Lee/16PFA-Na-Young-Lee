@@ -1,0 +1,4 @@
+오후 6:11 2016-03-30
+ex07에서 오타가 많이 났다.----fleece를 flleece라고 썼다.
+[print "It's fleece was white as %s." % 'snow']에서 띄어쓰기를 하지 않았다.----as%s 라고 써서 white assnow라고 나왔다.
+end7을 emd7로 써서 Run을 했을 때 그부분이 나오지 않았다.

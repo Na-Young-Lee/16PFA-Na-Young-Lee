@@ -12,7 +12,7 @@ def print_one(arg1):
     print ("arg1: %r" % arg1)
 
 # this one takes no arguments
-def print_none():
+def print_none()
     print ("I got nothing'.")
 
 

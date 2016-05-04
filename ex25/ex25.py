@@ -24,7 +24,7 @@ def print_last_word(words):
 
 def sort_sentence(sentence):
     """Takes in a full sentence and returns the sorted words."""
-    woeds = break_words(sentence)
+    words = break_words(sentence)
     return sort_words(words)
 
 

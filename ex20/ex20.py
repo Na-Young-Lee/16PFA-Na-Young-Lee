@@ -4,7 +4,7 @@ from sys import argv # 시스템으로부터 매개변수를 가져온다
 script, input_file = argv # 매개변수는 input_file(test.txt)이다.
 
 
-def print_all(f): # 함수 print문장열, f는 변수
+def print_all(f): # 함수 print_all, f는 변수
     print(f.read()) # 이 파일의 모든 내용을 읽어라
 
 

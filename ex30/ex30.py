@@ -9,7 +9,7 @@ if cars > people:
     print("We should take the cars.")
 elif cars < people:                         # elif는 갯수제한 없이 만들 수 있다.
      print("we should not take the cars.")
-else:                                       # else는 1개 밖에 쓰지 못한다.if도 아니고 else도 아닐 때 
+else:                                       # else는 1개 밖에 쓰지 못한다.if도 아니고 else도 아닐 때
     print("We can't decide.")
 
 if trucks > cars:
